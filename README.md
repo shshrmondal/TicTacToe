@@ -15,6 +15,9 @@ Detection of win, lose, or draw scenarios.
 
 Files  
 tictac.py: Contains the Python code for the Tic Tac Toe game.  
-README.md: This file, providing an overview of the project.
+README.md: This file, providing an overview of the project.  
+
+Contributions  
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to contact me @shshrmondal@gmail.com.  
 
 
