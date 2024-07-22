@@ -13,6 +13,9 @@ Proper validation of user inputs.
 Alternating turns between two players.  
 Detection of win, lose, or draw scenarios.  
 
+Console  
+![Tic](https://github.com/user-attachments/assets/d3c4af45-f933-4bb7-b5a6-a94f0f13953b)
+
 Files  
 tictac.py: Contains the Python code for the Tic Tac Toe game.  
 README.md: This file, providing an overview of the project.  
