@@ -22,22 +22,6 @@ Console Layout.
   |   |  
 ----------  
 
-----------
-  |   |  
-----------
-  | X |  
-----------
-  |   |  
-----------  
-
-----------
-  |   | O
-----------
-  | X |  
-----------
-  |   |  
-----------  
-
 Files  
 tictac.py: Contains the Python code for the Tic Tac Toe game.  
 README.md: This file, providing an overview of the project.
