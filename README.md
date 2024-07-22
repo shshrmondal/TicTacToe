@@ -5,5 +5,16 @@ Description
 Tic Tac Toe is a two-player game where each player takes turns marking spaces in a 3x3 grid until one player wins by placing three of their marks in a horizontal, vertical, or diagonal row.
 
 How to Run  
-To play the game, simply run the titac.py file using Python.
+To play the game, simply run the titac.py file using Python.  
+
+Features  
+Clear and intuitive console-based interface.  
+Proper validation of user inputs.  
+Alternating turns between two players.  
+Detection of win, lose, or draw scenarios.  
+
+Files  
+titac.py: Contains the Python code for the Tic Tac Toe game.  
+README.md: This file, providing an overview of the project.
+
 
